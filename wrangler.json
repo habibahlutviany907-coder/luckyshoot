@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "luckyshoot",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1a497057-7a4f-4474-a03f-ff5ba75c1bb7",
+			"database_name": "luckyshoot"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
